@@ -1,0 +1,14 @@
+<!-- %%[[if preview]]%% -->
+<link href="%siteAssetPath%/server-checker/checker.css" rel="stylesheet">
+<script>
+(function () {
+if ("undefined" == typeof window.servercheckerpath) {
+    const baseurl  = '%baseURL%/'.replace(/\/\/$/,'/');
+    window.servercheckerpath = `${baseurl}rw_common/plugins/stacks/server-checker/`;
+    const script = document.createElement('script');
+    script.src = "%siteAssetPath%/server-checker/checker.js";
+    document.write(script.outerHTML);
+}
+}());
+</script>
+<!-- %%[[endif]]%% -->
