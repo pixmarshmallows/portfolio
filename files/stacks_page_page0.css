@@ -1919,6 +1919,10 @@ user-select: none;
   #stacks_in_625162.scroll-mate-wrapper.sm-float{z-index:0}#stacks_in_625162.scroll-mate-wrapper{overflow:visible}#stacks_in_625162.scroll-mate-wrapper.scroll-perspective{-webkit-transform-style:preserve-3d;transform-style:preserve-3d;-webkit-perspective:500px;perspective:500px}#stacks_in_625162.scroll-mate-wrapper>.scroll-mate-inner{-webkit-transform-origin:50.00% 50.00%;transform-origin:50.00% 50.00%}  
 #stacks_in_625199 > .row{padding-top:0.00rem;padding-bottom:0.00rem}#stacks_in_625199 > .row.collapse{padding-left:0;padding-right:0}#stacks_in_625199 > .row.padding-detailed{padding:0.00rem 0.00rem 0.00rem 0.00rem}@media only screen and (max-width:40em){#stacks_in_625199 > .row.padding-detailed.padding-medium-up,#stacks_in_625199 > .row.padding-detailed.padding-large-up{padding-left:0;padding-right:0}#stacks_in_625199 > .row.padding-detailed.padding-y-medium-up,#stacks_in_625199 > .row.padding-detailed.padding-y-large-up{padding-top:0;padding-bottom:0}}@media only screen and (min-width:40.063em) and (max-width:62.5em){#stacks_in_625199 > .row.padding-detailed.padding-large-up{padding-left:0;padding-right:0}#stacks_in_625199 > .row.padding-detailed.padding-y-large-up{padding-top:0;padding-bottom:0}}
 
+
+#stacks_out_625199 {
+	width: 800px;
+}
                 @media only screen and (min-width:0px){#stacks_in_625201{ }
 }  #stacks_in_625201,#stacks_in_625201 div,#stacks_in_625201 p,#stacks_in_625201 ul,#stacks_in_625201 ul li,#stacks_in_625201 ol li,#stacks_in_625201 ol,#stacks_in_625201 dl,#stacks_in_625201 a,.no-default:not(.custom-font),.no-default:not(.custom-font) div,.no-default:not(.custom-font) p,.no-default:not(.custom-font) ul,.no-default:not(.custom-font) ul li,.no-default:not(.custom-font) ol li,.no-default:not(.custom-font) ol,.no-default:not(.custom-font) dl,.no-default:not(.custom-font) a{font-family:"Ultra",Sans-Serif ;font-weight:400 ;font-style:normal }   
 
