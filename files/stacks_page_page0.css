@@ -1943,6 +1943,11 @@ user-select: none;
 	-webkit-border-radius:  4px;
 	border-radius:  4px;
 }
+
+#stacks_out_625537 {
+	width: 110px;
+	margin-right:0;
+}
                  #stacks_in_625320 .hTxt:not(.vault-font),.no-default:not(.custom-font) .hTxt:not(.vault-font){font-family:"Ultra",Sans-Serif;font-weight:400;font-style:normal}            
 
                  #stacks_in_625306 .hTxt:not(.vault-font),.no-default:not(.custom-font) .hTxt:not(.vault-font){font-family:"Ultra",Sans-Serif;font-weight:400;font-style:normal}            
